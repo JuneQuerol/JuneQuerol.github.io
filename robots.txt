@@ -1,0 +1,22 @@
+﻿# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Special instructions for Google Scholar
+User-agent: Googlebot-Scholar
+Allow: /articles/
+Crawl-delay: 0
+
+# Sitemap location
+Sitemap: https://junequerol.github.io/sitemap-index.xml
+Sitemap: https://junequerol.github.io/sitemap-0.xml
+
+# Disallow certain utility pages that don't need indexing
+User-agent: *
+Disallow: /utilities/text-cleaner/
+Disallow: /utilities/password-generator/
+
+# Allow important pages
+Allow: /articles/
+Allow: /journal/
+Allow: /thoughts/
