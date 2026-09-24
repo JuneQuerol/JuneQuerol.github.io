@@ -3,7 +3,7 @@
 Static portfolio and utilities website for June Vergel Querol, built with Astro and hosted on GitHub Pages.
 
 - **Live URL**: [https://junequerol.github.io](https://junequerol.github.io)
-- **Email**: [junevergelquerol@gmail.com](mailto:junevergelquerol@gmail.com)
+- **Email**: [cpejune@gmail.com](mailto:cpejune@gmail.com)
 
 ---
 
